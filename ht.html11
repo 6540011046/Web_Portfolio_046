@@ -1,0 +1,53 @@
+<!DOCTYPE html> html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week2</title>
+</head>
+<body>
+    <ol>
+<img src="img" alt="">
+    <li>
+    <h1>Headinh 1</h1>
+
+    </li>
+
+
+<li>heading 1 &lt;hi&gt;; </li>
+<li>heading 2 &lt;hi&gt;; </li>
+<li>heading 3 &lt;hi&gt;; </li>
+<li>heading 4 &lt;hi&gt;; </li>
+<li>heading 5 &lt;hi&gt;; </li>
+<li>heading 6 &lt;hi&gt;; </li>
+
+    </h1>
+<table><tr>
+    <td></td>
+    <td>9am</td>
+    <td>10am</td>
+    <td>11am</td>
+    <td>12am</td>
+</tr>
+<tr>
+    <td>monday</td>
+    <td>G</td>
+    <td></td>
+    <td>Math</td>
+    <td>Art</td>
+</tr>
+<tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+
+
+
+</ol>
+</body>
+</html>
